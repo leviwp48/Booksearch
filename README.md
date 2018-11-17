@@ -8,7 +8,6 @@
   This app allows a user to conduct a search with the Open Library API, which will return a list of books relative to the users input. The   user can then view a specific book with more detail and the user can choose to share the cover image of the book.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
